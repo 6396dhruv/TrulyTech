@@ -1,0 +1,25 @@
+.title p{
+    width: 100%;
+    margin: 50px auto;
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.title h2{
+    width: 30%;
+    margin: 40px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+    background: linear-gradient(rgba(173, 9, 167, 0.7),rgba(71, 53, 189, 0.7));
+    border-radius: 50px;
+}
